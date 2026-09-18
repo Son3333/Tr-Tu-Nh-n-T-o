@@ -1,0 +1,140 @@
+{
+  "3893596c00aaa667114a4f7b3305800c": {
+    "fruit_class": "Pear",
+    "dhash": 1048941905906468428,
+    "md5": "3893596c00aaa667114a4f7b3305800c",
+    "avg_color": [
+      230.536376953125,
+      229.46923828125,
+      170.89404296875
+    ],
+    "user_note": "Kiểm thử ghi nhớ tự động",
+    "learned_at": "2026-09-13 16:57:47"
+  },
+  "Durian_1789522492": {
+    "fruit_class": "Durian",
+    "saved_file": "C:\\Users\\admin\\Downloads\\Đề số 22 Xây dựng chương trình nhận diện và phân loại trái cây\\dataset\\train\\Durian\\learned_1789522492_131.jpg",
+    "learned_at": "2026-09-16 08:34:52",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  },
+  "c1c3a1b9df2e27438774985ae8295b2a": {
+    "fruit_class": "Durian",
+    "dhash": 742405743341438532,
+    "md5": "c1c3a1b9df2e27438774985ae8295b2a",
+    "avg_color": [
+      209.420654296875,
+      200.5419921875,
+      172.633056640625
+    ],
+    "user_note": "Người dùng hiệu chỉnh qua Web App",
+    "learned_at": "2026-09-16 08:34:52"
+  },
+  "Peach_1789522553": {
+    "fruit_class": "Peach",
+    "saved_file": "C:\\Users\\admin\\Downloads\\Đề số 22 Xây dựng chương trình nhận diện và phân loại trái cây\\dataset\\train\\Peach\\learned_1789522553_580.jpg",
+    "learned_at": "2026-09-16 08:35:53",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  },
+  "126150a829899c7e5996b74c63767cdf": {
+    "fruit_class": "Peach",
+    "dhash": 4514028521181874062,
+    "md5": "126150a829899c7e5996b74c63767cdf",
+    "avg_color": [
+      240.029296875,
+      152.6005859375,
+      132.97900390625
+    ],
+    "user_note": "Người dùng hiệu chỉnh qua Web App",
+    "learned_at": "2026-09-16 08:35:53"
+  },
+  "bcbb62ac0d55a50650a00ce6dc43f5ee": {
+    "fruit_class": "Banana",
+    "dhash": 4469139,
+    "md5": "bcbb62ac0d55a50650a00ce6dc43f5ee",
+    "avg_color": [
+      251.3173828125,
+      244.7734375,
+      229.183349609375
+    ],
+    "user_note": "Audit check",
+    "learned_at": "2026-09-17 22:10:37"
+  },
+  "CherryBing_1789658228": {
+    "fruit_class": "CherryBing",
+    "saved_file": "C:\\Users\\admin\\Downloads\\S22XYD~1\\dataset\\train\\CherryBing\\learned_1789658228_692.jpg",
+    "learned_at": "2026-09-17 22:17:08",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  },
+  "e6ed7eb41cb5390ea3b317cdafcc1cfc": {
+    "fruit_class": "CherryBing",
+    "dhash": 5371133260699625827,
+    "md5": "e6ed7eb41cb5390ea3b317cdafcc1cfc",
+    "avg_color": [
+      200.11865234375,
+      171.100830078125,
+      158.896728515625
+    ],
+    "user_note": "Người dùng hiệu chỉnh qua Web App",
+    "learned_at": "2026-09-17 22:17:08"
+  },
+  "CherryBing_1789695127": {
+    "fruit_class": "CherryBing",
+    "saved_file": "C:\\Users\\admin\\Downloads\\Đề số 22 Xây dựng chương trình nhận diện và phân loại trái cây\\dataset\\train\\CherryBing\\learned_1789695127_857.jpg",
+    "learned_at": "2026-09-18 08:32:07",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  },
+  "bf4e8dd9bf98d4a0712ab0252c7051b9": {
+    "fruit_class": "CherryBing",
+    "dhash": 13179709145891440398,
+    "md5": "bf4e8dd9bf98d4a0712ab0252c7051b9",
+    "avg_color": [
+      175.908935546875,
+      108.22216796875,
+      109.717041015625
+    ],
+    "user_note": "Người dùng hiệu chỉnh qua Web App",
+    "learned_at": "2026-09-18 08:32:07"
+  },
+  "Banana_1789695190": {
+    "fruit_class": "Banana",
+    "saved_file": "C:\\Users\\admin\\Downloads\\Đề số 22 Xây dựng chương trình nhận diện và phân loại trái cây\\dataset\\train\\Banana\\learned_1789695190_80.jpg",
+    "learned_at": "2026-09-18 08:33:10",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  },
+  "a394305ec9526c71cc3b91db9c9d1c52": {
+    "fruit_class": "Banana",
+    "dhash": 128662883797611045,
+    "md5": "a394305ec9526c71cc3b91db9c9d1c52",
+    "avg_color": [
+      169.02685546875,
+      139.7890625,
+      76.956787109375
+    ],
+    "user_note": "Người dùng hiệu chỉnh qua Web App",
+    "learned_at": "2026-09-18 08:33:10"
+  },
+  "Pear_1789696277": {
+    "fruit_class": "Pear",
+    "saved_file": "C:\\Users\\admin\\Downloads\\Đề số 22 Xây dựng chương trình nhận diện và phân loại trái cây\\dataset\\train\\Pear\\learned_1789696277_844.jpg",
+    "learned_at": "2026-09-18 08:51:17",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  },
+  "a3f582eba9291ae5a32d06c4a784ab79": {
+    "fruit_class": "Apple",
+    "dhash": 14757394577299473926,
+    "md5": "a3f582eba9291ae5a32d06c4a784ab79",
+    "avg_color": [
+      214.478271484375,
+      107.032958984375,
+      91.09033203125
+    ],
+    "user_note": "Người dùng hiệu chỉnh qua Web App",
+    "learned_at": "2026-09-18 08:51:33"
+  },
+  "Apple_1789696293": {
+    "fruit_class": "Apple",
+    "saved_file": "C:\\Users\\admin\\Downloads\\Đề số 22 Xây dựng chương trình nhận diện và phân loại trái cây\\dataset\\train\\Apple\\learned_1789696293_264.jpg",
+    "learned_at": "2026-09-18 08:51:33",
+    "user_note": "Người dùng hiệu chỉnh qua Web App"
+  }
+}

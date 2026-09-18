@@ -1,0 +1,602 @@
+{
+  "Apple": {
+    "vn_name": "Táo",
+    "icon": "🍎",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Banana": {
+    "vn_name": "Chuối",
+    "icon": "🍌",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Orange": {
+    "vn_name": "Cam",
+    "icon": "🍊",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Mango": {
+    "vn_name": "Xoài",
+    "icon": "🥭",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Watermelon": {
+    "vn_name": "Dưa hấu",
+    "icon": "🍉",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Strawberry": {
+    "vn_name": "Dâu tây",
+    "icon": "🍓",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Grape": {
+    "vn_name": "Nho",
+    "icon": "🍇",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Pineapple": {
+    "vn_name": "Dứa (Thơm)",
+    "icon": "🍍",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Avocado": {
+    "vn_name": "Bơ",
+    "icon": "🥑",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Dragonfruit": {
+    "vn_name": "Thanh long",
+    "icon": "🐉",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Lemon": {
+    "vn_name": "Chanh vàng",
+    "icon": "🍋",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Lime": {
+    "vn_name": "Chanh ta (Chanh xanh)",
+    "icon": "🍋",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Peach": {
+    "vn_name": "Đào",
+    "icon": "🍑",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Cherry": {
+    "vn_name": "Anh đào (Cherry)",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Kiwi": {
+    "vn_name": "Kiwi",
+    "icon": "🥝",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Coconut": {
+    "vn_name": "Dừa",
+    "icon": "🥥",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Pear": {
+    "vn_name": "Lê",
+    "icon": "🍐",
+    "sample_count": 2,
+    "last_updated": "2026-09-13 16:57:47"
+  },
+  "Pomegranate": {
+    "vn_name": "Lựu",
+    "icon": "🍎",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Papaya": {
+    "vn_name": "Đu đủ",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Guava": {
+    "vn_name": "Ổi",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Lychee": {
+    "vn_name": "Vải thiều",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Longan": {
+    "vn_name": "Nhãn",
+    "icon": "🟤",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Rambutan": {
+    "vn_name": "Chôm chôm",
+    "icon": "🔴",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Durian": {
+    "vn_name": "Sầu riêng",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Jackfruit": {
+    "vn_name": "Mít",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Mangosteen": {
+    "vn_name": "Măng cụt",
+    "icon": "🟣",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Plum": {
+    "vn_name": "Mận hậu",
+    "icon": "🟣",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Passionfruit": {
+    "vn_name": "Chanh leo (Chanh dây)",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Fig": {
+    "vn_name": "Quả sung ngọt (Mỹ)",
+    "icon": "🟤",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Blueberry": {
+    "vn_name": "Việt quất",
+    "icon": "🫐",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "CustardApple": {
+    "vn_name": "Mãng cầu ta (Na)",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Soursop": {
+    "vn_name": "Mãng cầu xiêm",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Starfruit": {
+    "vn_name": "Khế ngọt / Khế chua",
+    "icon": "⭐",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Persimmon": {
+    "vn_name": "Hồng giòn / Hồng đỏ",
+    "icon": "🟠",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Grapefruit": {
+    "vn_name": "Bưởi diễn",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Tangerine": {
+    "vn_name": "Quýt đường",
+    "icon": "🍊",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Apricot": {
+    "vn_name": "Mơ vàng",
+    "icon": "🍑",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Blackberry": {
+    "vn_name": "Mâm xôi đen",
+    "icon": "🫐",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Raspberry": {
+    "vn_name": "Mâm xôi đỏ (Phúc bồn tử)",
+    "icon": "🍓",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Cranberry": {
+    "vn_name": "Nam việt quất",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Gooseberry": {
+    "vn_name": "Lý chua lông",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Mulberry": {
+    "vn_name": "Dâu tằm",
+    "icon": "🟣",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Sapodilla": {
+    "vn_name": "Hồng xiêm (Sabôchê)",
+    "icon": "🥔",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Tamarind": {
+    "vn_name": "Me ngọt / Me chua",
+    "icon": "🟤",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Kumquat": {
+    "vn_name": "Quất (Tắc)",
+    "icon": "🍊",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Jujube": {
+    "vn_name": "Táo tàu tươi",
+    "icon": "🟤",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Date": {
+    "vn_name": "Chà là tươi",
+    "icon": "🟤",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Cantaloupe": {
+    "vn_name": "Dưa lưới vàng",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Honeydew": {
+    "vn_name": "Dưa lê hoàng kim",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "StarApple": {
+    "vn_name": "Vú sữa Lò Rèn",
+    "icon": "🟣",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Breadfruit": {
+    "vn_name": "Sa kê",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Pomelo": {
+    "vn_name": "Bưởi da xanh",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Langsat": {
+    "vn_name": "Bòn bon",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Santol": {
+    "vn_name": "Quả sấu đỏ (Dọc / Măng cụt dại)",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Acerola": {
+    "vn_name": "Sơ ri",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Feijoa": {
+    "vn_name": "Ổi dứa (Feijoa)",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "PassionfruitBanana": {
+    "vn_name": "Chuối tiêu hồng",
+    "icon": "🍌",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "RedBanana": {
+    "vn_name": "Chuối đỏ Dacca",
+    "icon": "🍌",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Plantain": {
+    "vn_name": "Chuối sứ (Chuối ngự)",
+    "icon": "🍌",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "BloodOrange": {
+    "vn_name": "Cam ruột đỏ (Blood Orange)",
+    "icon": "🍊",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Clementine": {
+    "vn_name": "Quýt Clementine",
+    "icon": "🍊",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Mandarin": {
+    "vn_name": "Quýt hồng Lai Vung",
+    "icon": "🍊",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "GreenApple": {
+    "vn_name": "Táo xanh Granny Smith",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "GoldenDelicious": {
+    "vn_name": "Táo vàng Golden Delicious",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "RedDelicious": {
+    "vn_name": "Táo đỏ Mỹ Red Delicious",
+    "icon": "🍎",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "GalaApple": {
+    "vn_name": "Táo Gala",
+    "icon": "🍎",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "FujiApple": {
+    "vn_name": "Táo Fuji Nhật Bản",
+    "icon": "🍎",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "AnjouPear": {
+    "vn_name": "Lê xanh Anjou",
+    "icon": "🍐",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "BoscPear": {
+    "vn_name": "Lê nâu Bosc",
+    "icon": "🍐",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "AsianPear": {
+    "vn_name": "Lê Hàn Quốc (Mắc cọp)",
+    "icon": "🍐",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "BlackGrape": {
+    "vn_name": "Nho đen không hạt Mỹ",
+    "icon": "🍇",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "GreenGrape": {
+    "vn_name": "Nho xanh Ninh Thuận",
+    "icon": "🍇",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "RedGlobeGrape": {
+    "vn_name": "Nho đỏ Red Globe",
+    "icon": "🍇",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "MuscatGrape": {
+    "vn_name": "Nho mẫu đơn Muscat",
+    "icon": "🍇",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "GoldenKiwi": {
+    "vn_name": "Kiwi vàng New Zealand",
+    "icon": "🥝",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "BlackCherry": {
+    "vn_name": "Cherry đen Washington",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "RainierCherry": {
+    "vn_name": "Cherry vàng Rainier",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "WhitePeach": {
+    "vn_name": "Đào trắng Nhật Bản",
+    "icon": "🍑",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "YellowPeach": {
+    "vn_name": "Đào vàng Lạng Sơn",
+    "icon": "🍑",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Nectarine": {
+    "vn_name": "Đào tiên lông nhẵn (Nectarine)",
+    "icon": "🍑",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "BlackPlum": {
+    "vn_name": "Mận đen Mỹ",
+    "icon": "🟣",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "RedPlum": {
+    "vn_name": "Mận đỏ Tam Hoa",
+    "icon": "🔴",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Greengage": {
+    "vn_name": "Mận xanh Reine Claude",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "HamiMelon": {
+    "vn_name": "Dưa Hami Tân Cương",
+    "icon": "🍈",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "SugarBabyWatermelon": {
+    "vn_name": "Dưa hấu tí hon Sugar Baby",
+    "icon": "🍉",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "YellowWatermelon": {
+    "vn_name": "Dưa hấu ruột vàng",
+    "icon": "🍉",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "BlackWatermelon": {
+    "vn_name": "Dưa hấu vỏ đen Densuke",
+    "icon": "🍉",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "ElephantApple": {
+    "vn_name": "Quả sổ (Trái chay rừng)",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "IndianGooseberry": {
+    "vn_name": "Me rừng (Quả mắc kham)",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Macadamia": {
+    "vn_name": "Quả mắc ca tươi",
+    "icon": "🌰",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Chestnut": {
+    "vn_name": "Hạt dẻ Trùng Khánh",
+    "icon": "🌰",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "CashewApple": {
+    "vn_name": "Trái điều (Đào lộn hột)",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Salak": {
+    "vn_name": "Quả mây Thái (Da rắn)",
+    "icon": "🥔",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "SnakeFruit": {
+    "vn_name": "Quả mây Bali Indonesia",
+    "icon": "🥔",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "MiracleFruit": {
+    "vn_name": "Quả thần kỳ (Miracle Fruit)",
+    "icon": "🍒",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Jabuticaba": {
+    "vn_name": "Nho thân gỗ Nam Mỹ",
+    "icon": "🟣",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Pitomba": {
+    "vn_name": "Dâu rừng Amazon (Pitomba)",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Canistel": {
+    "vn_name": "Quả trứng gà (Lêkima)",
+    "icon": "🟡",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Ambarella": {
+    "vn_name": "Cóc (Cóc bao tử)",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  },
+  "Dracontomelon": {
+    "vn_name": "Quả sấu Hà Nội",
+    "icon": "🍏",
+    "sample_count": 1,
+    "last_updated": "init"
+  }
+}
